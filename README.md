@@ -3,7 +3,7 @@
 ## Otopark Sistemi
 
 Bu bitirme projesi kapsamında Otopark Sisteminin backend servisleri yazılmıştır.
-Proje kapsamında beklenen minimum fonksiyonlar ve teknik ihtiyaçlar aşağıdaki gibidir.
+Proje kapsamında beklenen teknik ihtiyaçlar aşağıdaki gibidir.
 
 # Teknik Beklentiler
 - Proje Java programlama dili 8 versiyonu kullanılarak implemente edilmiştir, proje genelinde bootcamp boyunca öğrendiğimiz OOP prensipleri doğru şekilde uygulanmaya çalışılmıştır.

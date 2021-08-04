@@ -6,7 +6,7 @@ Bu bitirme projesi kapsamında Otopark Sisteminin backend servisleri yazılmış
 Proje kapsamında beklenen teknik ihtiyaçlar aşağıdaki gibidir.
 
 ## Teknik Beklentiler
-- Proje Java programlama dili 8 versiyonu kullanılarak implemente edilmiştir, proje genelinde bootcamp boyunca öğrendiğimiz OOP prensipleri doğru şekilde uygulanmaya çalışılmıştır.
+- Proje Java programlama dili kullanılmıştır, proje genelinde bootcamp boyunca öğrendiğimiz OOP prensipleri doğru şekilde uygulanmaya çalışılmıştır.
 
 - Tüm fonksiyonlar REST API'lar aracılığı ile yerine getirilmiş ve API'lar Postman arayüzü ile dokümantasyonu yapılmıştır.
 

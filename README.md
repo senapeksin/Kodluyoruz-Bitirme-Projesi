@@ -11,3 +11,4 @@ Proje kapsamında beklenen teknik ihtiyaçlar aşağıdaki gibidir.
 - Tüm fonksiyonlar REST API'lar aracılığı ile yerine getirilmiş ve API'lar Postman arayüzü ile dökümantasyonu yapılmıştır.
 
 - Uygulama genelinde Spring Boot, JPA kullanılmış, clean code ve SOLID prensiplerine uyulmaya dikkat edilmiştir.
+![1](https://user-images.githubusercontent.com/24571191/128251445-96ff0699-d874-4b6d-8559-2f45c49288cd.jpg)
